@@ -6,7 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="qianxuesishu" />
+        <module name="qianxuesishu_Core" />
+        <module name="qianxuesishu_Domain" />
+        <module name="qianxuesishu_Mapper" />
+        <module name="qianxuesishu_Provider" />
+        <module name="qianxuesishu_Service" />
+        <module name="qianxuesishu_Web" />
       </profile>
     </annotationProcessing>
   </component>

@@ -14,6 +14,7 @@
         <module>qianxuesishu_Mapper</module>
         <module>qianxuesishu_Provider</module>
         <module>qianxuesishu_Service</module>
+        <module>qianxuesishu_Web</module>
     </modules>
 
 
